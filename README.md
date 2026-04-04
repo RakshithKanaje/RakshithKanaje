@@ -13,6 +13,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rakshithvkanaje/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
   </a>
 </p>
